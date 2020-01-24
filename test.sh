@@ -1,5 +1,5 @@
 #!/bin/bash
-# Change this code
+#exercice 2
 BIRTHDATE="Jan 1, 2000"
 Presents=10
 BIRTHDAY=`date -d "$BIRTHDATE" +%A`
@@ -23,3 +23,9 @@ else
     echo "BIRTHDAY is incorrect - please retry"
 fi
 
+#exercice 3
+# Welcome to the Interactive Shell Tutorial.
+# Start by choosing a chapter and
+# write your code in this window.
+
+echo "Hello, World!";
