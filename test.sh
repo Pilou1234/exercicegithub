@@ -1,4 +1,8 @@
 #!/bin/bash
+
+#exercice 1 
+echo "Hello,World"
+
 #exercice 2
 BIRTHDATE="Jan 1, 2000"
 Presents=10
@@ -29,3 +33,5 @@ fi
 # write your code in this window.
 
 echo "Hello, World!";
+
+#EXERCICE 4
